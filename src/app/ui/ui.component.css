@@ -38,3 +38,10 @@
     cursor: pointer;
     color: grey;
 }
+
+.division-button {
+    cursor: pointer;
+    color: blueviolet;
+    font-size: 20px;
+    font-weight: 1000;
+}
