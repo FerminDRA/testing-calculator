@@ -59,3 +59,10 @@
     font-size: 20px;
     font-weight: 1000;
 }
+
+.square-root-button {
+    cursor: pointer;
+    color: darkorange;
+    font-size: 17px;
+    font-weight: 1000;
+}
