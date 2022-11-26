@@ -45,3 +45,10 @@
     font-size: 20px;
     font-weight: 1000;
 }
+
+.exponent-button {
+    cursor: pointer;
+    color: crimson;
+    font-size: 20px;
+    font-weight: 1000;
+}
